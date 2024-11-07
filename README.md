@@ -7,8 +7,9 @@
 
 ## 👀 About us
 <p align="center">
-<img width="505" alt="스크린샷 2023-09-16 오후 9 28 15" src="https://github.com/Couch-Coders/14th-dali-be/assets/120344687/f39d39f8-109b-4860-b181-f84057bc357a">
+<img width="663" alt="스크린샷 2024-11-07 오후 11 16 46" src="https://github.com/user-attachments/assets/6d8049a4-207d-48c2-8f0e-898176cacd51">
 </p>
+
 
 <br><br>
 
